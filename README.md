@@ -25,4 +25,4 @@ This work shows how AI can automate quality inspection, reduce manual effort, an
 • DNN model architecture
 • Training performance
 
-hashtag#DeepLearning hashtag#DNN hashtag#MachineLearning hashtag#AI hashtag#ComputerVision hashtag#PredictionModel hashtag#DataScience
+
